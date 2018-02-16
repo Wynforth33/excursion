@@ -1,0 +1,28 @@
+body {
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+h3 {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.main {
+  font-weight: normal;
+  font-size: 50px;
+}
+.section {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.title {
+  color: white;
+}
