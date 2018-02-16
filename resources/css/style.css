@@ -26,3 +26,7 @@ h3 {
 .title {
   color: white;
 }
+
+.copyright {
+  text-align: right;
+}
